@@ -89,6 +89,15 @@ right: 250px;
 a{
   color: #11999e;
   margin: 20px;
+  }
+
+a:hover{
+color: #eaf6f6;
+}
+
+.hobby{
+  width: 30%;
+  margin: auto;
 }
 .Nat{
   width: 15%;
