@@ -45,7 +45,7 @@ h3{
 .intro{
   width: 50%;
   margin: auto;
-
+  margin-top: 30px;
 }
 
 .top-container{
@@ -55,7 +55,7 @@ h3{
   padding-top: 100px;
   padding-bottom: 0;
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .mountain-image{
@@ -65,7 +65,7 @@ h3{
     }
 
 .middle-container{
-
+margin-top: 50px;
 }
 .bottom-container{
 background-color: #66bfbf;
@@ -129,7 +129,7 @@ color: #eaf6f6;
 }
 
 .contact-me{
-  margin: 20px auto 40px auto;
+  margin: 50px auto 40px auto;
 
 }
 
@@ -156,6 +156,10 @@ color: #eaf6f6;
 .btn:active {
 	position:relative;
 	top:1px;
+}
+
+.profile{
+  margin-bottom: 50px;
 }
 
 hr{
